@@ -1,1 +1,1 @@
-# zoho
+I would use Zoho Projects or Zoho Sprints to break DevOps work into clear tasks like pipeline setup, deployments, monitoring, and bug fixes. Each task can be tracked with status, priority, and deadlines. For deployments, I’d update progress in real time and link issues to builds or releases. Bugs or incidents can be logged as issues, assigned to owners, and tracked until resolution. Dashboards and reports help the team see progress, blockers, and improve delivery speed.
